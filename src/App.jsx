@@ -23,7 +23,7 @@ export default function App() {
   const [formData, setFormData] = useState({
     sender_name: '',
     sender_email: '',
-    subject: 'Auditoría de Ciberseguridad / Pentesting ',
+    subject: 'Auditoría de Ciberseguridad / Pentesting',
     message: ''
   });
   
